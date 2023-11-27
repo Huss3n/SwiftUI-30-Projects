@@ -1,6 +1,7 @@
 # Project 1 Good as Old Phones 
 This project was built entirely using swiftUI following the MVVM architecture. 
 This app demonstrates the basic use and implementation of tab bar view, navigation stack, scoll view, image view. 
+Build from ideas in the Swift-30-day repository containing apps made using UIKit.
 
 ## App Screenshots 
 
